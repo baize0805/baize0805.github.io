@@ -6,7 +6,7 @@
   <link href="http://baize0805.github.io/atom.xml" rel="self"/>
   
   <link href="http://baize0805.github.io/"/>
-  <updated>2021-06-04T08:49:42.925Z</updated>
+  <updated>2021-06-04T15:52:09.984Z</updated>
   <id>http://baize0805.github.io/</id>
   
   <author>
@@ -17,24 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello world</title>
-    <link href="http://baize0805.github.io/2021/06/04/hello-world/"/>
-    <id>http://baize0805.github.io/2021/06/04/hello-world/</id>
+    <title>第一篇博客</title>
+    <link href="http://baize0805.github.io/2021/06/04/jian-zhan-di-yi-pian-bo-ke/"/>
+    <id>http://baize0805.github.io/2021/06/04/jian-zhan-di-yi-pian-bo-ke/</id>
     <published>2021-06-04T07:21:51.000Z</published>
-    <updated>2021-06-04T08:49:42.925Z</updated>
+    <updated>2021-06-04T15:52:09.984Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;首页轮播&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;心情&quot;&gt;&lt;a href=&quot;#心情&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
+    <category term="生活" scheme="http://baize0805.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="live 建站小记" scheme="http://baize0805.github.io/tags/live-%E5%BB%BA%E7%AB%99%E5%B0%8F%E8%AE%B0/"/>
     
   </entry>
   

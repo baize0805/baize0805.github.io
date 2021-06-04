@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>Hello world</title>
-      <link href="2021/06/04/hello-world/"/>
-      <url>2021/06/04/hello-world/</url>
+      <title>第一篇博客</title>
+      <link href="2021/06/04/jian-zhan-di-yi-pian-bo-ke/"/>
+      <url>2021/06/04/jian-zhan-di-yi-pian-bo-ke/</url>
       
-        <content type="html"><![CDATA[<p>首页轮播</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="心情"><a href="#心情" class="headerlink" title="心情"></a><strong>心情</strong></h1><p>作为一个学习Java后端的小白，第一次使用前端框架搭建自己的个人博客，心情可想而知是非常激动的。</p><pre><code>public static void main(String args[])&#123;    &#125;</code></pre><h1 id="规划"><a href="#规划" class="headerlink" title="规划"></a><strong>规划</strong></h1><p>建立这个博客最大的目的就为了让我养成良好的做学习笔记的习惯，并尝试的写一些个人技术看法！就如河边的男孩终究是会长大的。😘<br><img "" class="lazyload placeholder" data-original="https://cdn.jsdelivr.net/gh/Baize0805/img@master/d4h.3vkxgmxvssw0.webp" src="https://img10.360buyimg.com/ddimg/jfs/t1/157667/29/9156/134350/603c6445Ebbc9cabe/41219c5d36d45072.gif" alt="d4h"></p>]]></content>
       
       
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> live 建站小记 </tag>
+            
+        </tags>
       
     </entry>
     
