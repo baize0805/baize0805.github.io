@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Baize</title>
+  
+  <subtitle>baize</subtitle>
+  <link href="http://baize0805.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://baize0805.github.io/"/>
+  <updated>2021-06-04T08:49:42.925Z</updated>
+  <id>http://baize0805.github.io/</id>
+  
+  <author>
+    <name>Bai Ze</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello world</title>
+    <link href="http://baize0805.github.io/2021/06/04/hello-world/"/>
+    <id>http://baize0805.github.io/2021/06/04/hello-world/</id>
+    <published>2021-06-04T07:21:51.000Z</published>
+    <updated>2021-06-04T08:49:42.925Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;首页轮播&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
