@@ -781,10 +781,47 @@
       </div>
       <div class="post-content">
         <h1 id="心情"><a href="#心情" class="headerlink" title="心情"></a><strong>心情</strong></h1><p>作为一个学习Java后端的小白，第一次使用前端框架搭建自己的个人博客，心情可想而知是非常激动的。</p>
-<pre><code>public static void main(String args[])&#123;
-    
-&#125;
-</code></pre>
+<pre class="line-numbers language-java" data-language="java"><code class="language-java">package base.jdk8回顾.IO流;
+
+    import java.io.FileInputStream;
+    import java.io.FileNotFoundException;
+    import java.io.IOException;
+
+    public class FileInputStreamTest04 &#123;
+    public static void main(String[] args) &#123;
+        FileInputStream file &#x3D; null;
+
+        try &#123;
+            file &#x3D; new FileInputStream(&quot;src&#x2F;base&#x2F;jdk8回顾&#x2F;IO流&#x2F;Demo&quot;);
+
+            byte[] bytes &#x3D; new byte[4];
+            &#x2F;*while (true)&#123;
+                int readCount &#x3D; file.read(bytes);
+                if (readCount &#x3D;&#x3D; -1)&#123;
+                    break;
+                &#125;
+                System.out.print(new String(bytes,0,readCount));
+            &#125;*&#x2F;
+            int readCount &#x3D; 0;
+            while ((readCount &#x3D; file.read(bytes)) !&#x3D; -1)&#123;
+                System.out.println(new String(bytes,0,readCount));
+            &#125;
+        &#125; catch (FileNotFoundException e) &#123;
+            e.printStackTrace();
+        &#125; catch (IOException e) &#123;
+            e.printStackTrace();
+        &#125; finally &#123;
+            if (file !&#x3D; null) &#123;
+                try &#123;
+                    file.close();
+                &#125; catch (IOException e) &#123;
+                    e.printStackTrace();
+                &#125;
+            &#125;
+        &#125;
+    &#125;
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
 <h1 id="规划"><a href="#规划" class="headerlink" title="规划"></a><strong>规划</strong></h1><p>建立这个博客最大的目的就为了让我养成良好的做学习笔记的习惯，并尝试的写一些个人技术看法！就如河边的男孩终究是会长大的。😘<br><img "" class="lazyload placeholder" data-original="https://cdn.jsdelivr.net/gh/Baize0805/img@master/d4h.3vkxgmxvssw0.webp" src="https://img10.360buyimg.com/ddimg/jfs/t1/157667/29/9156/134350/603c6445Ebbc9cabe/41219c5d36d45072.gif" alt="d4h"></p>
 
       </div>
