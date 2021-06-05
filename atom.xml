@@ -3,11 +3,11 @@
   <title>Baize</title>
   
   <subtitle>baize</subtitle>
-  <link href="http://baize0805.github.io/atom.xml" rel="self"/>
+  <link href="http://baize.live/atom.xml" rel="self"/>
   
-  <link href="http://baize0805.github.io/"/>
+  <link href="http://baize.live/"/>
   <updated>2021-06-05T17:25:07.427Z</updated>
-  <id>http://baize0805.github.io/</id>
+  <id>http://baize.live/</id>
   
   <author>
     <name>Bai Ze</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>关于自学一年Java的感想</title>
-    <link href="http://baize0805.github.io/2021/06/06/guan-yu-zi-xue-yi-nian-java-de-gan-xiang/"/>
-    <id>http://baize0805.github.io/2021/06/06/guan-yu-zi-xue-yi-nian-java-de-gan-xiang/</id>
+    <link href="http://baize.live/2021/06/06/guan-yu-zi-xue-yi-nian-java-de-gan-xiang/"/>
+    <id>http://baize.live/2021/06/06/guan-yu-zi-xue-yi-nian-java-de-gan-xiang/</id>
     <published>2021-06-05T16:00:38.000Z</published>
     <updated>2021-06-05T17:25:07.427Z</updated>
     
@@ -34,19 +34,19 @@
     
     
     
-    <category term="随想" scheme="http://baize0805.github.io/categories/%E9%9A%8F%E6%83%B3/"/>
+    <category term="随想" scheme="http://baize.live/categories/%E9%9A%8F%E6%83%B3/"/>
     
     
-    <category term="live" scheme="http://baize0805.github.io/tags/live/"/>
+    <category term="live" scheme="http://baize.live/tags/live/"/>
     
-    <category term="study" scheme="http://baize0805.github.io/tags/study/"/>
+    <category term="study" scheme="http://baize.live/tags/study/"/>
     
   </entry>
   
   <entry>
     <title>第一篇博客</title>
-    <link href="http://baize0805.github.io/2021/06/04/jian-zhan-di-yi-pian-bo-ke/"/>
-    <id>http://baize0805.github.io/2021/06/04/jian-zhan-di-yi-pian-bo-ke/</id>
+    <link href="http://baize.live/2021/06/04/jian-zhan-di-yi-pian-bo-ke/"/>
+    <id>http://baize.live/2021/06/04/jian-zhan-di-yi-pian-bo-ke/</id>
     <published>2021-06-04T07:21:51.000Z</published>
     <updated>2021-06-05T15:59:31.886Z</updated>
     
@@ -61,12 +61,12 @@
     
     
     
-    <category term="生活" scheme="http://baize0805.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="http://baize.live/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="live" scheme="http://baize0805.github.io/tags/live/"/>
+    <category term="live" scheme="http://baize.live/tags/live/"/>
     
-    <category term="建站小记" scheme="http://baize0805.github.io/tags/%E5%BB%BA%E7%AB%99%E5%B0%8F%E8%AE%B0/"/>
+    <category term="建站小记" scheme="http://baize.live/tags/%E5%BB%BA%E7%AB%99%E5%B0%8F%E8%AE%B0/"/>
     
   </entry>
   
