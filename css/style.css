@@ -1586,7 +1586,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   background: url("https://img10.360buyimg.com/ddimg/jfs/t1/166587/8/21344/72069/6088c24fEda5fdeb6/f9730ab637b7ca47.png");
 }
 .index-notice .index-notice-icon {
-  color: #f00;
+  color: #000;
   font-size: 1.2rem;
   margin-right: 5px;
   animation: mymove 1.5s infinite;
