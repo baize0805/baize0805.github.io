@@ -102,6 +102,20 @@
   </url>
   
   <url>
+    <loc>https://www.baize.live/tags/java/</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.baize.live/tags/JVM/</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.baize.live/tags/Java/</loc>
     <lastmod>2022-06-01</lastmod>
     <changefreq>daily</changefreq>
@@ -116,6 +130,13 @@
   </url>
   
   <url>
+    <loc>https://www.baize.live/tags/live/</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.baize.live/tags/%E8%81%8C%E5%9C%BA/</loc>
     <lastmod>2022-06-01</lastmod>
     <changefreq>daily</changefreq>
@@ -124,27 +145,6 @@
   
   <url>
     <loc>https://www.baize.live/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-06-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.baize.live/tags/live/</loc>
-    <lastmod>2022-06-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.baize.live/tags/java/</loc>
-    <lastmod>2022-06-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.baize.live/tags/JVM/</loc>
     <lastmod>2022-06-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -174,14 +174,14 @@
   </url>
   
   <url>
-    <loc>https://www.baize.live/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E6%83%B3/</loc>
+    <loc>https://www.baize.live/categories/%E9%9A%8F%E6%83%B3/</loc>
     <lastmod>2022-06-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.baize.live/categories/%E9%9A%8F%E6%83%B3/</loc>
+    <loc>https://www.baize.live/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E6%83%B3/</loc>
     <lastmod>2022-06-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
